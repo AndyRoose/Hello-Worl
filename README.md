@@ -9,7 +9,9 @@ This is my first repository in GitHub. I do not really know what I am doing yet 
 
 ### About
 
-I am currently a Sophomore at the University of Iowa Studying Business Analytics. 
+- Year: Sophomore
+- Major: Business Analytics
+- Hometown: Waverly, IA
 
 ### Files Used
 
